@@ -1,6 +1,6 @@
 {
   "Tags":
   {
-    "awscodestar:projectArn":"arn:$PARTITION$:codestar:$AWS_REGION$:$ACCOUNT_ID$:project/$PROJECT_ID$"
+    "awscodestar:projectArn":"arn:$PARTITION$:codestar:$AWS_REGION$:$026304687225$:project/$PROJECT_ID$"
   }
 }
